@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "browser-sync start --server --files '**/*'"
+    "start": "browser-sync start --server --watch"
   },
   "devDependencies": {
     "browser-sync": "^3.0.4"
